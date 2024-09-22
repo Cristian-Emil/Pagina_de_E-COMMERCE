@@ -11,4 +11,5 @@ trec in mod constant de acel test de acceptare.
 Nu e greu dar este destul de deranjant ca nu poti sa faci programul se ruleze.
 
 P.S: La rulari multiple, cu aceleasi credentiale si copiere a datelor de validare exista sansa ca respectivul CAPCHA sa afiseze acelasi model in doua incercari consecutive si deci poti sa treci de acel test. 
-Dar asta tine doar de noroc si de de un algoritm gandit. 
+Dar asta tine doar de noroc si nu de un algoritm gandit sa faca acest lucru.
+Proiectul este in asteptare pana gasesc o solutie.
